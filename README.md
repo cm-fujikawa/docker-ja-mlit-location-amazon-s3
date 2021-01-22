@@ -1,0 +1,1 @@
+# docker-ja-mlit-location-amazon-s3
